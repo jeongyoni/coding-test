@@ -1,6 +1,6 @@
 # [level 0] [PCCE 기출문제] 1번 / 문자 출력 - 340207 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340207) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340207?language=java) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 20일 19:26:40
+2026년 04월 20일 19:27:20
 
 ### 문제 설명
 
